@@ -1,3 +1,4 @@
 # Python and Data Structures
 
-This folder contains projects combining Python programming with data structures and algorithm design. Each subfolder represents an individual project showcasing skills in Python, data structures implementation, algorithm analysis, and computational problem solving.
+- **C_Data_Structures_Stock_Market_Solo_Project.zip** — Individual solo project implementing data structures in C to simulate and analyse stock market data.
+- - **Python_Design_Analysis_Algorithms_GitHub_Section.pdf** — Individual project covering algorithm design and analysis using Python, including complexity analysis and implementation of key algorithms.
