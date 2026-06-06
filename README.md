@@ -6,8 +6,8 @@ A collection of projects written by me, organized by skill area. Each folder con
 
 | Folder | Skills | Description |
 |--------|--------|-------------|
-| [Python](./Python) | Python, NumPy, Algorithms | Projects built using Python, covering optimization, numerical computing, and algorithm implementation |
-| [MATLAB](./MATLAB) | MATLAB, Signal Processing, FFT | Projects built using MATLAB, covering frequency domain analysis and digital signal processing |
-| [Data-Structures-and-Algorithms](./Data-Structures-and-Algorithms) | DSA, Complexity Analysis, Problem Solving | Projects focused on implementing data structures and analyzing algorithms |
+| [MATLAB](./MATLAB) | MATLAB, Signal Processing, FFT, Stochastic Modelling | Projects built using MATLAB covering frequency domain analysis, digital signal processing, and stochastic processes |
 | [Machine-Learning](./Machine-Learning) | ML, Statistical Learning, AI | Projects in machine learning and AI, applying models to real-world data |
-| [Mathematics-and-Statistics](./Mathematics-and-Statistics) | Statistics, Probability, Stochastic Processes | Projects covering statistical methods, probability theory, stochastic processes, and signal analysis |
+| [Optimization](./Optimization) | Python, NumPy, Linear Programming, Simplex Method | Best project — an optimization solver built from scratch using Python |
+| [Python-and-Data-Structures](./Python-and-Data-Structures) | Python, DSA, Algorithm Analysis, Problem Solving | Projects combining Python programming with data structures and algorithm design |
+| [Statistical-Analysis](./Statistical-Analysis) | Statistics, Probability, Data Analysis | Projects focused on statistical methods, data analysis, and applied mathematics |
